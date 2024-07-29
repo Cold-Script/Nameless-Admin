@@ -13,7 +13,7 @@ NACaller(function() getgenv().RealNamelessLoaded=true end)
 NACaller(function() getgenv().NATestingVer=false end)
 
 --[[ Version ]]--
-local curVer=2.19
+local curVer=:D
 
 --[[ Brand ]]--
 local mainName='Nameless Admin'
